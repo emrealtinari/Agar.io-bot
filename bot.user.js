@@ -23,7 +23,7 @@ SOFTWARE.*/
 // ==UserScript==
 // @name        AposBot
 // @namespace   AposBot
-// @include     http://agar.io/*
+// @include     http://agarz.com/*
 // @version     3.564
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
@@ -1415,7 +1415,7 @@ console.log("Running Apos Bot!");
     }
 
     /**
-     * The game's current mode. (FFA is "", ":experimental", ":teams". ":party")
+     * The game's current mode. (FFA-7is "", ":experimental", ":teams". ":party")
      * @return {[type]} [description]
      */
     function getMode() {
