@@ -1,4 +1,4 @@
-/*The MIT License (MIT)
+*The MIT License (MIT)
 
 Copyright (c) 2015 Apostolique
 
@@ -1415,7 +1415,7 @@ console.log("Running Apos Bot!");
     }
 
     /**
-     * The game's current mode. (FFA is "", ":experimental", ":teams". ":party")
+     * The game's current mode. (FFA-7 is "", ":experimental", ":teams". ":party")
      * @return {[type]} [description]
      */
     function getMode() {
